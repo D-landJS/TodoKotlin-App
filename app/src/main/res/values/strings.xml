@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="title">Bienvenido, LEON</string>
+    <string name="categories">Categories</string>
+    <string name="tasks">Tasks</string>
+    <string name="dialog_add_task">Add task</string>
+    <string name="dialog_category_business">Business</string>
+    <string name="dialog_category_personal">Personal</string>
+    <string name="dialog_category_other">Other</string>
+    <string name="dialog_add_task_button">Add</string>
+</resources>
